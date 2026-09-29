@@ -1,0 +1,15 @@
+timestamp,event_id,source_ip,target_user,target_system,event_type,outcome
+2026-09-28T08:00:00Z,E001,198.51.100.10,mperez,vpn-gateway,login,failure
+2026-09-28T08:01:00Z,E002,198.51.100.10,mperez,vpn-gateway,login,failure
+2026-09-28T08:02:00Z,E003,198.51.100.10,mperez,vpn-gateway,login,failure
+2026-09-28T08:03:00Z,E004,198.51.100.10,mperez,vpn-gateway,login,failure
+2026-09-28T08:04:00Z,E005,198.51.100.10,mperez,vpn-gateway,login,failure
+2026-09-28T08:05:00Z,E006,198.51.100.10,mperez,vpn-gateway,login,success
+2026-09-28T09:10:00Z,E007,203.0.113.22,analyst1,mail-server,login,failure
+2026-09-28T09:11:00Z,E008,203.0.113.22,analyst2,mail-server,login,failure
+2026-09-28T09:12:00Z,E009,203.0.113.22,analyst3,mail-server,login,failure
+2026-09-28T10:30:00Z,E010,192.0.2.12,svc-backup,backup-server,login,success
+2026-09-28T11:15:00Z,E011,192.0.2.25,employee1,workstation-1,phishing,reported
+2026-09-28T11:35:00Z,E012,192.0.2.26,employee2,workstation-2,malware,blocked
+2026-09-28T12:00:00Z,E013,192.0.2.27,employee3,workstation-3,login,success
+2026-09-28T13:20:00Z,E014,192.0.2.25,employee4,workstation-4,phishing,reported
