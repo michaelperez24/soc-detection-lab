@@ -4,11 +4,9 @@ A Python portfolio project that turns **synthetic security events** into rule-ba
 
 
 
-\## Dashboard Preview
+## Dashboard Preview
 
-
-
-!\[SOC Executive Dashboard](images/soc-dashboard.png)
+![SOC Executive Dashboard](images/soc-dashboard.png)
 
 ## Quick start
 
@@ -59,4 +57,5 @@ This is a local demonstration with synthetic data. It is not a live SIEM, threat
 ```bash
 python -m unittest discover -s tests -v
 ```
+
 
